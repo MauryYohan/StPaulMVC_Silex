@@ -1,0 +1,8 @@
+Contient :
+ - Les classes telles qu'elles le seront dans la BDD Oracle.
+ 
+ Version 1.0
+ Class Client, Commande, Produit et Transport avec :
+   - Attributs
+   - Accesseurs
+   - Mutateurs
